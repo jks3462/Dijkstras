@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414301868 source:f:\algorithms (graphics)\singlesource(wg)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
